@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-510-genomics-computing-economics-and-society-fall-2005/0b2eb540c75239af391aea6ec3d5c211_hst-510f05-th.jpg
+file: /media/courses/hst-510-genomics-computing-economics-and-society-fall-2005/0b2eb540c75239af391aea6ec3d5c211_hst-510f05-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Personalized medicine is the diagnosis and treatment of patients using
@@ -9,6 +9,8 @@ image_metadata:
     and personal history. (Figure courtesy of MIT OpenCourseWare.)
   credit: ''
   image-alt: Illustration of human figure and internal organs.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: hst-510f05-th.jpg
 uid: 0b2eb540-c752-39af-391a-ea6ec3d5c211

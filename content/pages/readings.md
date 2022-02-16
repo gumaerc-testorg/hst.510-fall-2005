@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: ea4d478a-6fd2-1748-bfad-13ee8e02fc8a
 ---
@@ -157,7 +160,7 @@ Kurzweil, Ray, and Bill Joy. "Recipe for Destruction." _New York Times_, October
 
 Lovley D. "Cleaning up with genomics: applying molecular biology to bioremediation." _Nature Reviews Microbiology_ 1 (2003): 35-44. (doi:10.1038/nrmicro731) \[A survey of the present and future of bioremediation. It seems that the modeling involved in bioremediation would use almost all the same tools as modeling involved in biomass production.\]
 
-Benemann, J. R., J. C. Van Olst, M. J. Massingill, J. C. Weissman, and D. E. Brune. "The Controlled Eutrophication Process: Using Microalgae for CO2 Utilization and Agricultural Fertilizer Recycling." Working paper. 2002.
+Benemann, J. R., J. C. Van Olst, M. J. Massingill, J. C. Weissman, and D. E. Brune. "The Controlled Eutrophication Process: Using Microalgae for CO{{< sub "2" >}} Utilization and Agricultural Fertilizer Recycling." Working paper. 2002.
 
 ### Biodiesel Readings
 
@@ -165,7 +168,7 @@ Tyson, K. S., et al. "Biomass Oil Analysis: Research Needs and Recommendations."
 
 Sheehan, John, et al. "A Look Back at the U.S. Department of Energy’s Aquatic Species Program: Biodiesel from Algae." National Renewable Energy Laboratory. Report NREL/TP-580-24190, July 1998. \[The DOE report on biomass oil from algae, which Briggs draws heavily upon for his article.\]
 
-Benemann, J. R., J. C. Van Olst, M. J. Massingill, J. C. Weissman, and D. E. Brune. "The Controlled Eutrophication Process: Using Microalgae for CO2 Utilization and Agricultural Fertilizer Recycling." Working paper. 2002. \[The conference paper that discusses algae farms in the desert Southwest, which forms the basis of Briggs's discussion.\]
+Benemann, J. R., J. C. Van Olst, M. J. Massingill, J. C. Weissman, and D. E. Brune. "The Controlled Eutrophication Process: Using Microalgae for CO{{< sub "2" >}} Utilization and Agricultural Fertilizer Recycling." Working paper. 2002. \[The conference paper that discusses algae farms in the desert Southwest, which forms the basis of Briggs's discussion.\]
 
 Toda, M., A. Takagaki, M. Okamura, J. N. Kondo, S. Hayashi, K. Domen, and M. Hara. "Green chemistry: biodiesel made with sugar catalyst." _Nature_ 438, no. 7065 (November 10, 2005): 178.
 
