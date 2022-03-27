@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 175a3e11-64fa-d5d3-183d-48aa9b598d93
 resourcetype: Document
 title: 05d_oct4.pdf
 uid: b0190ebd-db66-e8bc-d455-915c439befa0
