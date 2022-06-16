@@ -1,5 +1,13 @@
 ---
 content_type: page
+description: 'Readings section provides information on: Background, including Conversation
+  Starters, Articles, and Technical References. It also covers Personalized Medicine,
+  including Student Readings, Definitions, Background, Requests for Research, Existing
+  Technologies and Lines of Research, Policy Issues in Implementation - Public Health,
+  Access to Care, Insurance Policy, Personal Genome Project (PGP), and HapMap Resources.
+  It also describes New Energy Sources, including Metabolic Engineering Resources,
+  Bioremediation Readings, Biodiesel Readings, Links Regarding (renewable) Energy.
+  Biocomplexity and Randomness Readings are also covered here.'
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

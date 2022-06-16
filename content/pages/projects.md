@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Students in the course contribute to a class-wide project documented
+  on the course wiki Web site that provides decision-making tools for global and local
+  technology development and deployment in the categories of Personalized Medicine,
+  New Energy Sources, and Biocomplexity and Randomness.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

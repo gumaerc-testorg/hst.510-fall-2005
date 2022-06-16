@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Lecture notes section contains a selection of downloadable lecture notes
+  for some listed sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -35,9 +37,9 @@ Class Organization
 {{< tdopen >}}
 
 
-([PDF 1]({{< baseurl >}}/resources/05a_sep20))
+({{% resource_link 673e3524-9b99-e659-2e5c-fb128a031cec "PDF 1" %}})
 
-([PDF 2]({{< baseurl >}}/resources/05b_sep22))
+({{% resource_link 995cfb94-973f-0554-770f-ca1b11f9fb25 "PDF 2" %}})
 
 
 {{< tdclose >}}
@@ -57,7 +59,7 @@ Exercise - A Quantitative Definition of Life
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/05c_sep27))
+({{% resource_link a9de950f-48c2-f3c9-dc15-e3b9c02e7cc4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +71,7 @@ Exercise - A Quantitative Definition of Life
 New Energy Sources and Personalized Medicine
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/05d_oct4))
+({{% resource_link b0190ebd-db66-e8bc-d455-915c439befa0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,9 +85,9 @@ Biosphere Facts
 {{< tdopen >}}
 
 
-([PDF 1]({{< baseurl >}}/resources/05e_oct11))
+({{% resource_link 02427f28-a961-a8c5-1c67-5ffd30f940e2 "PDF 1" %}})
 
-([PDF 2]({{< baseurl >}}/resources/05f_oct13))
+({{% resource_link 89d963d0-e04d-304e-1dc2-b9909b7dc182 "PDF 2" %}})
 
 
 {{< tdclose >}}
@@ -99,7 +101,7 @@ Biosphere Facts
 Metabolic Networks and Learning Perl
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/05g_oct27))
+({{% resource_link 582af5ec-e3c8-c32c-71b6-fff9c5a6b5f1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
