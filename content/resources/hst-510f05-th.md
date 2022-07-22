@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: Illustration of human figure and internal organs.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: hst-510f05-th.jpg
 uid: 0b2eb540-c752-39af-391a-ea6ec3d5c211
 ---
 New image Upload
-
