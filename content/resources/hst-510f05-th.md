@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/hst-510-genomics-computing-economics-and-society-fall-2005/0b2eb540c75239af391aea6ec3d5c211_hst-510f05-th.jpg
+file_size: 7829
 file_type: image/jpeg
 image_metadata:
   caption: Personalized medicine is the diagnosis and treatment of patients using
