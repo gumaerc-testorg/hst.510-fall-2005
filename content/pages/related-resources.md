@@ -2,14 +2,13 @@
 content_type: page
 description: Related resources section contains external links to the resources which
   are useful for course understanding.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: cad815ac-0eee-e3e9-4032-d587905bb838
 ---
-
-Computational Biology Tools
----------------------------
+## Computational Biology Tools
 
 [Herbert Meyer's Bioinformatics World](http://homepage.univie.ac.at/herbert.mayer/index.html) - Herbert Meyer's Bioinformatics world provides a review of categorized applications and databases used for bioinformatics research.
 
@@ -19,8 +18,7 @@ Computational Biology Tools
 
 [GeneCards](http://www.genecards.org/) - GeneCards is a database of human genes, their products and their involvement in diseases. It offers concise information about the functions of all human genes that have HGNC-approved symbols, as well as other genes.
 
-Renewable Energy Links
-----------------------
+## Renewable Energy Links
 
 [National Renewable Energy Laboratory Web page](http://www.nrel.gov/rredc/) contains good links to various reports on renewable energy sources.
 
@@ -38,9 +36,8 @@ The biodiesel warehouse is one among many companies that offer equipment for peo
 
 [Some information on Global Demand for Oil](http://www.eia.doe.gov/pub/oil_gas/petroleum/analysis_publications/oil_market_basics/demand_text.htm)
 
-HapMap Resources
-----------------
+## HapMap Resources
 
-Examples of [Association studies using HapMap data](http://www.hapmap.org/tutorials.html.en) (this association study uses relative risk), and tutorials for analyzing HapMap data.
+Examples of [Association studies using HapMap data](https://web.archive.org/web/20150914225434/http://hapmap.ncbi.nlm.nih.gov/tutorials.html.en) (this association study uses relative risk), and tutorials for analyzing HapMap data.
 
-[PolyPhen](http://genetics.bwh.harvard.edu/pph/pph_help_text.html) for analyzing the effect of amino acid substitutions on proteins
+[PolyPhen](http://genetics.bwh.harvard.edu/pph2/) for analyzing the effect of amino acid substitutions on proteins
