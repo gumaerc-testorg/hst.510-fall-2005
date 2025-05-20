@@ -32,7 +32,7 @@ uid: cad815ac-0eee-e3e9-4032-d587905bb838
 
 The biodiesel warehouse is one among many companies that offer equipment for people to produce their own biodiesel from waste vegetable oils.
 
-[Energy Information Administration](http://www.eia.doe.gov/oiaf/analysispaper/biodiesel/) on biodiesel - critical paper on concerned with the commercial viability of large scale biodiesel from soybean oil.
+[Energy Information Administration](https://www.eia.gov/energyexplained/biofuels/biodiesel-rd-other-basics.php) on biodiesel - critical paper on concerned with the commercial viability of large scale biodiesel from soybean oil.
 
 [Some information on Global Demand for Oil](http://www.eia.doe.gov/pub/oil_gas/petroleum/analysis_publications/oil_market_basics/demand_text.htm)
 
