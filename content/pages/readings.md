@@ -52,7 +52,7 @@ Series of articles in "Crossroads for Planet Earth." _Scientific American_ 293, 
 
 Kolbert, Elizabeth. "The Climate of Man." _The New Yorker_, April 24, 2005.
 
-Briggs, Michael. [Widescale Biodiesel Production from Algae](http://www.resilience.org/stories/2004-10-03/widescale-biodiesel-production-algae/). Revised August 2004.
+Briggs, Michael. {{% resource_link "b725d0b8-d059-42e1-8bba-8e009ddd4767" "Widescale Biodiesel Production from Algae" %}}. Revised August 2004.
 
 Gibbs, W. W. "Synthetic life." _Scientific American_ 290, no. 5 (May 2004): 74-81.
 
@@ -64,7 +64,7 @@ Collins, Francis S. "Personalized medicine: A new approach to staying well." _Th
 
  Mount, David W. _Bioinformatics: Sequence and Genome Analysis_. Woodbury, NY: Cold Spring Harbor Laboratory Press, 2001. ISBN: 9780879696085.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262581158) Hunter, Lawrence, ed. "Molecular Biology for Computer Scientists." Chapter 1 in [_Artificial Intelligence and Molecular Biology_](https://mitpress.mit.edu/9780262581158). Cambridge, MA: MIT Press, 1993. ISBN: 9780262581158.
+{{% resource_link "6d4dbb98-d7a2-4abd-bafb-a9f700297f2e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Hunter, Lawrence, ed. "Molecular Biology for Computer Scientists." Chapter 1 in {{% resource_link "6d4dbb98-d7a2-4abd-bafb-a9f700297f2e" "_Artificial Intelligence and Molecular Biology_" %}}. Cambridge, MA: MIT Press, 1993. ISBN: 9780262581158.
 
  Durbin, Richard, Sean R. Eddy, Anders S. Krogh, and Graeme Mitchison. _Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids_. New York, NY: Cambridge University Press, 1999. ISBN: 9780521629713.
 
@@ -109,13 +109,13 @@ Vernon, John A., and W. Keener Hughen. "The Future of Drug Development: The Econ
 
 ### Definitions, Background, Requests for Research
 
-[NIH DNA Resequencing and Genotyping Service web site](http://rsng.nhlbi.nih.gov/scripts/index.cfm)
+{{% resource_link "435e40b5-e68c-4c49-b702-3fb422bf9194" "NIH DNA Resequencing and Genotyping Service web site" %}}
 
 "Sequence specificity." Editorial. _Nature Genetics_ 37, no. 10 (2005): 1013-1013.
 
-"[NHGRI's Large-Scale Sequencing Research Network Sets Its Sights on Disease Targets](https://www.genome.gov/17015353)." Press release. _NIH News_, October 17, 2005.
+"{{% resource_link "13289483-ffa6-4485-8d35-a3c37c2dc4c1" "NHGRI's Large-Scale Sequencing Research Network Sets Its Sights on Disease Targets" %}}." Press release. _NIH News_, October 17, 2005.
 
-National Human Genome Research Institute (NHGRI). "[Request for Information: Comments on the Identification of Mendelian Disorders by Genomic Sequencing](http://grants.nih.gov/grants/guide/notice-files/NOT-HG-05-006.html)." Notice Number: NOT-HG-05-006, August 2, 2005.
+National Human Genome Research Institute (NHGRI). "{{% resource_link "7ba941ea-eaaa-4e88-b03f-d48829abbbad" "Request for Information: Comments on the Identification of Mendelian Disorders by Genomic Sequencing" %}}." Notice Number: NOT-HG-05-006, August 2, 2005.
 
 ### Existing Technologies and Lines of Research
 
@@ -135,7 +135,7 @@ Church, George M. "Genomes for all." _Scientific American_ 294, no. 1. (January 
 
 ———. "The Personal Genome Project" _Mol Syst Biol 2005_ doi:10.1038/msb4100040.
 
-[The Personal Genome Project page](http://arep.med.harvard.edu/PGP/PGP.html).
+{{% resource_link "59338b5e-a362-4e58-8dfa-ee22d5c699cd" "The Personal Genome Project page" %}}.
 
 ### HapMap
 
@@ -197,12 +197,12 @@ Puppan, Daniel. "Environmental Evaluation of Biofuels." _Periodica Polytechnica 
 Biocomplexity and Randomness Readings
 -------------------------------------
 
-The problem with defining complexity and randomness is that they both already have very precise technical definitions, relating them to algorithmic information theory and [Godel's Incompleteness Theorem](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems) in surprising and insightful ways.
+The problem with defining complexity and randomness is that they both already have very precise technical definitions, relating them to algorithmic information theory and {{% resource_link "aa5e1804-2fb7-4cd0-b81a-9d6b94e20365" "Godel's Incompleteness Theorem" %}} in surprising and insightful ways.
 
-[Gregory Chaitin](http://ufrj.academia.edu/GregoryChaitin) defines the complexity of something as "the size of the smallest program which computes it or a complete description of it."
+{{% resource_link "b91f337b-ec9e-482d-bbd2-9110597413b5" "Gregory Chaitin" %}} defines the complexity of something as "the size of the smallest program which computes it or a complete description of it."
 
 Crutchfield, J. P., and Young, K. "Inferring Statistical Complexity." _Physical Review Letters_ 63, no. 2 (1989): 105-108. \[In the complexity measure defined by Crutchfield and Young, they attempt to define a measure of the chaos in a system using statistical mechanics.\]
 
 Kauffman, Stuart. "Investigations: The Nature of Autonomous Agents and the Worlds They Mutually Create." _Santa Fe Institute Preprint_, September 13, 1996. \[Kauffman defines an molecular autonomous agent as a self-reproducing system that is capable of producing at least one thermodynamic work cycle.\]
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262120807) Chaitin, Gregory J. "Toward a Mathematical Definition of 'Life'." In [_The Maximum Entropy Formalism_](https://mitpress.mit.edu/9780262120807). Levine, R. D., and M. Tribus, eds. Cambridge, MA: MIT Press, 1978, pp. 477-498. ISBN: 9780262120807.
+{{% resource_link "2b8a49c1-a177-495c-8f82-a49547792dcc" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Chaitin, Gregory J. "Toward a Mathematical Definition of 'Life'." In {{% resource_link "2b8a49c1-a177-495c-8f82-a49547792dcc" "_The Maximum Entropy Formalism_" %}}. Levine, R. D., and M. Tribus, eds. Cambridge, MA: MIT Press, 1978, pp. 477-498. ISBN: 9780262120807.
