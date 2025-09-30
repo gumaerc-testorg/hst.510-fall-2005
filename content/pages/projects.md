@@ -11,7 +11,7 @@ title: Projects
 uid: 89048a77-9fb1-abe3-12b7-80b75d1266f8
 ---
 
-Students in the course contribute to a class-wide project documented on the [course wiki](http://archive.is/kCNnE) Web site that provides decision-making tools for global and local technology development and deployment in the categories of [Personalized Medicine](#personalized_med), [New Energy Sources](#energy_sources), and [Biocomplexity and Randomness](#bio_and_randomness). Student project topics are listed below.
+Students in the course contribute to a class-wide project documented on the {{% resource_link "241378b9-39ac-4a24-bfbe-483a2ea1a27d" "course wiki" %}} Web site that provides decision-making tools for global and local technology development and deployment in the categories of [Personalized Medicine](#personalized_med), [New Energy Sources](#energy_sources), and [Biocomplexity and Randomness](#bio_and_randomness). Student project topics are listed below.
 
 {{< anchor "personalized_med" >}}{{< /anchor >}}Personalized Medicine
 ---------------------------------------------------------------------
